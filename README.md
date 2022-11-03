@@ -6,7 +6,7 @@
 |----|---------|----------------------------------|------|
 |2022-11-01|Points| Local RoundAbout                |![Ronds-Points avec des points ronds](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-01.png)|
 |2022-11-02|Lines| Demography evolution by city     |![City demography](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-02.png)|
-|2022-11-03|Polygons| Demography evolution as surface  ||
+|2022-11-03|Polygons| Demography evolution as surface  |![City boundaries shrink with demography](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-03.png)|
 |2022-11-04|Colour Friday: Green| trees/agriculture surface        ||
 |2022-11-05|Ukraine| Sea over land surface            ||
 |2022-11-06|Network| Marché public                    ||
