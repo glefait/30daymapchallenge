@@ -8,7 +8,7 @@
 |2022-11-02|Lines| Demography evolution by city     |![City demography](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-02.png)|
 |2022-11-03|Polygons| Demography evolution as surface  |![City boundaries shrink with demography](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-03.png)|
 |2022-11-04|Colour Friday: Green| Evolution agriculture surface & value        |![Surface and value evolution of agricultural lands](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-04.png)|
-|2022-11-05|Ukraine| Sea over land surface            ||
+|2022-11-05|Ukraine| Sea over land surface            |![Ukraine flag color as Sea and Sand proportions](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-05.png)|
 |2022-11-06|Network| Marché public                    ||
 |2022-11-07|Raster| Fiber or voting per km           ||
 |2022-11-08|Data: OpenStreetMap| Swimming pools                   ||
