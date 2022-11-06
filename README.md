@@ -12,11 +12,11 @@
 |2022-11-06|Network| Public market connexion ([DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente))   |![Connected cities and public markets](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-06.png)|
 |2022-11-07|Raster| Fiber or voting per km           ||
 |2022-11-08|Data: OpenStreetMap| Swimming pools                   ||
-|2022-11-09|Space|||
+|2022-11-09|Space|landsat data||
 |2022-11-10|A bad map| upside and scaled down France    ||
 |2022-11-11|Colour Friday: Red| Temperature                      ||
 |2022-11-12|Scale| Scale by density                 ||
-|2022-11-13|5 minute map|||
+|2022-11-13|5 minute map|map last ||
 |2022-11-14|Hexagons|||
 |2022-11-15|Food/drink| Number of pizzeria / rhum volume ||
 |2022-11-16|Minimal| Ascii art                        ||
