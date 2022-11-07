@@ -10,7 +10,7 @@
 |2022-11-04|Colour Friday: Green| Evolution agriculture surface & value  |![Surface and value evolution of agricultural lands](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-04.png)|
 |2022-11-05|Ukraine| Sea over land surface            |![Ukraine flag color as Sea and Sand proportions](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-05.png)|
 |2022-11-06|Network| Public market connexion ([DECP](https://data.economie.gouv.fr/explore/dataset/decp_augmente))   |![Connected cities and public markets](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-06.png)|
-|2022-11-07|Raster| Fiber or voting per km           ||
+|2022-11-07|Raster| Pixel revenue           |![Average revenue per pixel](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-07.png)|
 |2022-11-08|Data: OpenStreetMap| Swimming pools                   ||
 |2022-11-09|Space|landsat data||
 |2022-11-10|A bad map| upside and scaled down France    ||
