@@ -14,7 +14,7 @@
 |2022-11-08|Data: OpenStreetMap| Swimming pools                   |![Swimming pool per 1000 habitants](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-08.png)|
 |2022-11-09|Space|landsat data||
 |2022-11-10|A bad map| Stacked French region    |![Stacked region by area](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-10.png)|
-|2022-11-11|Colour Friday: Red| Temperature                      ||
+|2022-11-11|Colour Friday: Red| Violence over time gif |![Different violences over time](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-11.gif)|
 |2022-11-12|Scale| Scale by density                 ||
 |2022-11-13|5 minute map|map last ||
 |2022-11-14|Hexagons|||
