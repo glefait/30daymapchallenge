@@ -15,7 +15,7 @@
 |2022-11-09|Space|landsat data||
 |2022-11-10|A bad map| Stacked French region    |![Stacked region by area](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-10.png)|
 |2022-11-11|Colour Friday: Red| Violence over time gif |![Different violences over time](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-11.gif)|
-|2022-11-12|Scale| Scale by density                 ||
+|2022-11-12|Scale| Parcel scales: from the largest to the smallest |![Parcel scales](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-12.png)|
 |2022-11-13|5 minute map|map last ||
 |2022-11-14|Hexagons|||
 |2022-11-15|Food/drink| Number of pizzeria / rhum volume ||
