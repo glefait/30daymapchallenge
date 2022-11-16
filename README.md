@@ -19,7 +19,7 @@
 |2022-11-13|5 minute map|map isoline 5 minutes walk/drive from Martinique beach |![5 minutes from beaches](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-13.png)|
 |2022-11-14|Hexagons|Number of doctors registered on [clikodoc](https://www.clikodoc.com/)|![doctors in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-14.png)|
 |2022-11-15|Food/drink| Geolocation of food companies |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-15.png)|
-|2022-11-16|Minimal| Ascii art                        ||
+|2022-11-16|Minimal| Ascii art & polygon simplification                       |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-16.gif)|
 |2022-11-17|A map without a computer|||
 |2022-11-18|Colour Friday: Blue| elevation and sea submertion     ||
 |2022-11-19|Globe| Just some countries              ||
