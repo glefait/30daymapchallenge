@@ -21,8 +21,8 @@
 |2022-11-15|Food/drink| Geolocation of food companies |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-15.png)|
 |2022-11-16|Minimal| Ascii art & polygon simplification                       |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-16.gif)|
 |2022-11-17|A map without a computer|||
-|2022-11-18|Colour Friday: Blue| elevation and sea submertion     ||
-|2022-11-19|Globe| Just some countries              ||
+|2022-11-18|Colour Friday: Blue| elevation and sea submertion     |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-18.png)|
+|2022-11-19|Globe| Finally Alone              |![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-19.png)|
 |2022-11-20|My favourite|||
 |2022-11-21|Data: Kontur Population Dataset|||
 |2022-11-22|NULL|||
