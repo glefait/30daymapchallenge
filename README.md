@@ -24,7 +24,7 @@
 |2022-11-18|Colour Friday: Blue| elevation and sea submertion     |![food industry in Martinique](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-18.png)|
 |2022-11-19|Globe| Finally Alone              |![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-19.png)|
 |2022-11-20|My favourite|Local public websites: editor, host and uptime|![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-20a.png) ![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-20b.png)|
-|2022-11-21|Data: Kontur Population Dataset|||
+|2022-11-21|Data: Kontur Population Dataset|Comparison Insee vs Kontour|![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-21.png)|
 |2022-11-22|NULL|||
 |2022-11-23|Movement|||
 |2022-11-24|Fantasy|||
