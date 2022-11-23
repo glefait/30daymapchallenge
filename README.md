@@ -26,7 +26,7 @@
 |2022-11-20|My favourite|Local public websites: editor, host and uptime|![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-20a.png) ![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-20b.png)|
 |2022-11-21|Data: Kontur Population Dataset|Comparison Insee vs Kontour|![Martinique Globe](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-21.png)|
 |2022-11-22|NULL|Public collectivity without designated DPO|![No DPO](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-22.png)|
-|2022-11-23|Movement|||
+|2022-11-23|Movement|Counting cars|![Counting cars](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-23.png)|
 |2022-11-24|Fantasy|||
 |2022-11-25|Colour Friday: 2 colours|||
 |2022-11-26|Island(s)|||
