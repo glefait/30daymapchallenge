@@ -28,7 +28,7 @@
 |2022-11-22|NULL|Public collectivity without designated DPO|![No DPO](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-22.png)|
 |2022-11-23|Movement|Counting cars|![Counting cars](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-23.png)|
 |2022-11-24|Fantasy|Prettymaps|![Prettymaps](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-24.png)|
-|2022-11-25|Colour Friday: 2 colours|||
+|2022-11-25|Colour Friday: 2 colours|Voter's gender balancer|![Voter's gender](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-25.png)|
 |2022-11-26|Island(s)|||
 |2022-11-27|Music|||
 |2022-11-28|3D|||
