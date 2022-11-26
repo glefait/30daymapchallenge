@@ -29,7 +29,7 @@
 |2022-11-23|Movement|Counting cars|![Counting cars](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-23.png)|
 |2022-11-24|Fantasy|Prettymaps|![Prettymaps](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-24.png)|
 |2022-11-25|Colour Friday: 2 colours|Voter's gender balancer|![Voter's gender](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-25.png)|
-|2022-11-26|Island(s)|||
+|2022-11-26|Island(s)|Ships and AIS data|![Ships and AIS data](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-26.png)|
 |2022-11-27|Music|||
 |2022-11-28|3D|||
 |2022-11-29|Out of my comfort zone|||
