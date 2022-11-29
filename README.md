@@ -32,5 +32,5 @@
 |2022-11-26|Island(s)|Ships and AIS data|![Ships and AIS data](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-26.png)|
 |2022-11-27|Music|World cloud with recording's title's words - musicbrainz data|![wordcloud recording](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-27.png)|
 |2022-11-28|3D|Rayshader|![Rayshader](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-28.png)|
-|2022-11-29|Out of my comfort zone|||
+|2022-11-29|Out of my comfort zone|deck.gl + webpack|![Rayshader](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-29.png)|
 |2022-11-30|Remix|||
