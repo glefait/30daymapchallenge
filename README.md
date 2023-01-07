@@ -33,4 +33,4 @@
 |2022-11-27|Music|World cloud with recording's title's words - musicbrainz data|![wordcloud recording](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-27.png)|
 |2022-11-28|3D|Rayshader|![Rayshader](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-28.png)|
 |2022-11-29|Out of my comfort zone|deck.gl + webpack|![Rayshader](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-29.png)|
-|2022-11-30|Remix|||
+|2022-11-30|Remix|deck.gl road accident normalised with population density|![Deck.gl normalized accident](https://raw.githubusercontent.com/glefait/30daymapchallenge/main/2022/output/2022-11-30.png)|
